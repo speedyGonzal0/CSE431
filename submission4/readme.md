@@ -21,6 +21,6 @@ Group Number:
 10
 
 Group Members:
-19101353	Mehzabin Sadat Aothoi
-19101497  Samin Ahsan
-18101668  Fardeen Ahmed
+19101353 Mehzabin Sadat Aothoi
+19101497 Samin Ahsan
+18101668 Fardeen Ahmed
